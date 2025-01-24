@@ -15,5 +15,6 @@ This script implements k-means clustering.
 ### 3. `exploratory_preprocessing.py`
 This script is dedicated to the initial exploratory data analysis (EDA) and preprocessing tasks. It handles:
 - Visualization of the dispersion plots
-- Feature selection
+- Reducing the dispersion plots
+- Feature selection (peak detection)
 
