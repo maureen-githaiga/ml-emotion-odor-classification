@@ -1,7 +1,5 @@
 # ml-emotion-odor-classification
 This repository contains the code and resources for my thesis, "Classification of Emotion-Based Body Odor Using Machine Learning Approaches."
-# Classification of Emotion-Based Body Odor Using Machine Learning Approaches
-
 ## Repository Files
 ### 1. `classification.py`
 This script contains the code for the classification models used.
